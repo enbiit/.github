@@ -3,10 +3,14 @@
 ![20220126_202432 - Copy](https://user-images.githubusercontent.com/95315609/169140979-5b449d41-1448-4441-8c05-b6dff3a849c4.png)
 
 
-**Here are some ideas to get you started:**
+Enbiit brings quality and affordability to information technology & services.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+## 🍿 Community driven development
+
+Please Join us such that we can make Enbiit more robust and wider with your contribution.
+If you get stuck at any point please feel free to open new issues 🚀 we will be more than happy to help you.
+
+Made with 🖤 🙇‍♂️ 🎤 
+
+
+![enbiit footer](https://user-images.githubusercontent.com/95315609/169142097-682cfb18-7371-475f-acdd-9bffc9db7a9c.jpg)
